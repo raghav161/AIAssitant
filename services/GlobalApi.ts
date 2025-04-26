@@ -12,5 +12,3 @@ export const GetAuthUserData = async (token: string) => {
     return null;
   }
 };
-
-
